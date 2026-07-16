@@ -1,1 +1,4 @@
-.
+frontend/
+docs/
+architecture.png
+
